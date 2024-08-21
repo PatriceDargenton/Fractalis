@@ -396,3 +396,22 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Dossiers à ignorer
+Archives
+Bak
+Tmp
+Codes
+Doc
+Images
+!Images/star_Lune.bmp
+!Images/star_Saturne.jpg
+
+*.bat
+*.exe
+*.exe.config
+*.html
+*.doc
+*.xml
+*.vbproj.ini
+Fractalis_*.txt
