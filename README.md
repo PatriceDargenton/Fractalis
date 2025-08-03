@@ -22,10 +22,10 @@ Au début, j'avais imaginé optimiser le tracé avec l'algorithme des [QuadTree]
 Il est possible de produire des vidéos, mais pour le moment cela se fait par le code, il n'y a pas encore d'interface dédiée. Par exemple si un zoom vous semble particulièrement intéressant, il suffit de noter la coordonnée du centre de l'image et de réinitialiser le zoom : ensuite la progression du zoom ne changera pas la cible choisie.
 
 ## Exemples de vidéos
-- [Mandelbrot01-1280x720](https://www.tiktok.com/@patrice.dargenton/video/7404797115844578593)
-- [Julia01-1280x720](https://www.tiktok.com/@patrice.dargenton/video/7404795503143144736)
-- [Julia02-1280x720](https://www.tiktok.com/@patrice.dargenton/video/7404794415127989537)
-- [Julia02-Extrait-1280x720-30fps](https://www.tiktok.com/@patrice.dargenton/video/7404792831589535008)
+- [Mandelbrot01-1280x720](https://www.tiktok.com/@patrice.dargenton/video/7533933190122196246)
+- [Julia01-1280x720](https://www.tiktok.com/@patrice.dargenton/video/7533931705842011394)
+- [Julia02-1280x720](https://www.tiktok.com/@patrice.dargenton/video/7533929665069649174)
+- [Julia02-Extrait-1280x720-30fps](https://www.tiktok.com/@patrice.dargenton/video/7533927554596621590)
 
 ## Limitations
 - Il faudrait un package nuget pour la création de vidéo, ce serait plus simple.
